@@ -1,0 +1,4 @@
+<model-viewer src="carpet 1 y up glb.glb" ar camera-controls poster="poster.webp" id="shoe" touch-action="pan-y" alt="A 3D model of a Shoe" ar-modes="scene-viewer webxr quick-look" shadow-intensity="0.6" camera-orbit="46.74deg 63.31deg 6.701m" field-of-view="30deg"><button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+</model-viewer>
